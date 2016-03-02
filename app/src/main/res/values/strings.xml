@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parcealable</string>
+    <string name="str_hnt_sname">Name</string>
+    <string name="str_hnt_sage">Фпу</string>
+    <string name="str_hnt_saddress">Adress</string>
+    <string name="str_hnt_scourse">Course</string>
+    <string name="str_btn_ok">Ok</string>
+</resources>
